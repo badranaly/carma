@@ -1,0 +1,14 @@
+.glyphicon {
+    margin-left: 60px;
+    margin-top: 40px;
+}
+
+.test {
+    display: inline-block;
+}
+
+.CarsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
